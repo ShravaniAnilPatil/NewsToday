@@ -1,38 +1,77 @@
-.App {
-  text-align: center;
+body {
+  font-family:'Times New Roman', Times, serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #343a40;
+  padding: 10px 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.navbar .navbar-brand, .navbar .nav-link {
   color: white;
+  text-decoration: none;
+  margin: 0 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.navbar .nav-link:hover {
+  color: #f8f9fa;
+  text-decoration: underline;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.container {
+  padding-top: 20px;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1rem;
+}
+
+.btn-dark {
+  background-color: #343a40;
+  border-color: #343a40;
+  transition: background-color 0.2s, transform 0.2s;
+}
+
+.btn-dark:hover {
+  background-color: #495057;
+  transform: translateY(-2px);
+}
+
+.text-center {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #343a40;
+}
+
+.footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #343a40;
+  color: #fff;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 }

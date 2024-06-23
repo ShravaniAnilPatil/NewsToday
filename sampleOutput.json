@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 27,
+  "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "AJLabs",
+      "title": "India election live results 2024: By the numbers",
+      "description": "Al Jazeera breaks down the results of the Lok Sabha after a seven-week voting process.",
+      "url": "https://www.aljazeera.com/news/2024/6/4/india-election-live-results-by-the-numbers",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/Interactive_Outside-image-India-2024-live-results2-1717416394.jpg?resize=1200%2C630",
+      "publishedAt": "2024-06-04T03:08:44Z",
+      "content": "After 44 days of an election across seven phases, The Election Commission of India (ECI) has begun its count of more than 600 million votes cast by Indians as they choose their next national governme… [+2877 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": "India Today",
+      "title": "Thiruvananthapuram Lok Sabha Election Results 2024 Live-- India Today",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2VsZWN0aW9ucy9zdG9yeS90aGlydXZhbmF0aGFwdXJhbS1sb2stc2FiaGEtZWxlY3Rpb24tcmVzdWx0cy0yMDI0LWxpdmUtdXBkYXRlcy1zaGFzaGktdGhhcm9vci1yYWplZXYtY2hhbmRyYXNoZWthci1ianAtY29uZ3Jlc3MtY3BtLTI1NDg2NzEtMjAyNC0wNi0wNNIBtAFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2FtcC9lbGVjdGlvbnMvc3RvcnkvdGhpcnV2YW5hdGhhcHVyYW0tbG9rLXNhYmhhLWVsZWN0aW9uLXJlc3VsdHMtMjAyNC1saXZlLXVwZGF0ZXMtc2hhc2hpLXRoYXJvb3ItcmFqZWV2LWNoYW5kcmFzaGVrYXItYmpwLWNvbmdyZXNzLWNwbS0yNTQ4NjcxLTIwMjQtMDYtMDQ?oc=5",
+      "urlToImage":"https://media.cnn.com/api/v1/images/stellar/prod/untitled-2-20240603231912909.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-04T02:46:22+00:00",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "India Election Results: Live Updates - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjQvMDYvMDMvd29ybGQvYXNpYS9yZXN1bHRzLWluZGlhLWxvay1zYWJoYS1lbGVjdGlvbi5odG1s0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-04T01:48:25+00:00",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Nadim Asrar, Usaid Siddiqui",
+      "title": "India election results live news: Modi eyes historic third term as PM",
+      "description": "A party or coalition needs 272 seats to cross the majority mark in the 543-member lower house of parliament.",
+      "url": "https://www.aljazeera.com/news/liveblog/2024/6/4/india-election-results-live-news-modi-eyes-historic-third-term-as-pm",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-06-03T084601Z_1548833849_RC2I38AU1SQT_RTRMADP_3_INDIA-ELECTION-1717437029.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-06-04T01:30:54Z",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nA party or coalition needs 272 seats to cross the majority mark in the 543-member lower house of parliament."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Thao Nguyen",
+      "title": "Hot air balloon crash leaves 3 injured in Indiana; federal investigation underway",
+      "description": "A hot air balloon \"crashed after striking power lines\" in Hebron, Indiana, the Federal Aviation Administration told USA TODAY in a statement.",
+      "url": "https://www.usatoday.com/story/news/nation/2024/06/03/indiana-hot-air-balloon-crash/73965218007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/presto/2021/07/08/USAT/7de5b734-db84-4564-b489-12783521a22c-IN-01.png?crop=4071,2290,x506,y450&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2024-06-04T01:14:19+00:00",
+      "content": "Three people were injured after a hot air balloon struck power lines and caught on fire in northwestern Indiana, authorities said.\r\nA Lindstrom hot air balloon \"crashed after striking power lines\" in… [+4061 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": "The Indian Express",
+      "title": "Election Results 2024 Live Updates: Counting of votes to start soon; will PM Modi script a return or can INDIA bloc pull off a surprise? - The Indian Express",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9pbmRpYS9sb2stc2FiaGEtZWxlY3Rpb24tcmVzdWx0cy0yMDI0LWxpdmUtdXBkYXRlcy05MzY4OTE1L9IBYmh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9pbmRpYS9sb2stc2FiaGEtZWxlY3Rpb24tcmVzdWx0cy0yMDI0LWxpdmUtdXBkYXRlcy05MzY4OTE1L2xpdGUv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-04T00:55:14+00:00",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "KRUTIKA PATHI and SHEIKH SAALIQ",
+      "title": "India begins counting votes in marathon election expected to bring Prime Minister Modi a third term",
+      "description": "NEW DELHI (AP) — India on Tuesday began counting more than 640 million votes in the world’s largest democratic exercise, which was widely expected to return Prime Minister Narendra Modi to a third term after a decade in power.",
+      "url": "https://apnews.com/7893efecc83fa8225a611f174e6420ee",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/edabafe6894944088cf1d7369096d2c3/3000.jpeg",
+      "publishedAt": "2024-06-04T00:43:13Z",
+      "content": "NEW DELHI (AP) — India on Tuesday began counting more than 640 million votes in the world’s largest democratic exercise, which was widely expected to return Prime Minister Narendra Modi to a third te… [+3930 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kaila Nichols",
+      "title": "FAA investigating after a hot air balloon crashed into power lines, injuring 3 people",
+      "description": "Two passengers and a pilot were injured after a hot air balloon hit power lines in Indiana on Sunday and the Federal Aviation Administration is now investigating the incident.",
+      "url": "https://www.cnn.com/2024/06/03/us/hot-air-balloon-crash-lowell-indiana/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-2-20240603231912909.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-04T00:31:46Z",
+      "content": "Two passengers and a pilot were injured after a hot air balloon hit power lines in Indiana on Sunday and the Federal Aviation Administration is now investigating the incident.\r\nThe crash occurred in … [+1038 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "John Leuzzi",
+      "title": "Angel Reese okay with 'bad guy' role in WNBA after Chicago Sky-Indiana Fever game",
+      "description": "Angel Reese spoke Monday about the cheap shot Caitlin Clark took from her Chicago Sky teammate Chennedy Carter.",
+      "url": "https://www.usatoday.com/story/sports/wnba/2024/06/03/angel-reese-wnba-fan-growth-caitlin-clark/73965641007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/images/smg/2024/06/02/USAT/73948471007-2155612285.jpeg?crop=5713,3215,x0,y380&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2024-06-04T00:04:34+00:00",
+      "content": "Angel Reese has broken her silence following Saturday's highly talked about cheap shot Caitlin Clark took from Reese's Chicago Sky teammate Chennedy Carter.\r\nThe Sky forward said she is okay with bei… [+2265 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "China, India allegedly interfered in Conservative leadership races: report",
+      "description": null,
+      "url": "http://www.cbc.ca/news/politics/conservative-leadership-race-interference-nsicop-1.7223518",
+      "urlToImage": null,
+      "publishedAt": "2024-06-03T23:07:03.7751868Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news-ca",
+        "name": "Google News (Canada)"
+      },
+      "author": "CBC News",
+      "title": "China, India allegedly interfered in Conservative leadership races: report - CBC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL2NvbnNlcnZhdGl2ZS1sZWFkZXJzaGlwLXJhY2UtaW50ZXJmZXJlbmNlLW5zaWNvcC0xLjcyMjM1MTjSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzIyMzUxOA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-03T22:43:31+00:00",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "Man charged with murder of Sikh activist arrested near site of planned Sikh gathering in Ontario | CBC News",
+      "description": "The arrest in Brampton, Ont. on Nov. 3, 2023 of Amandeep Singh — one of four men charged in connection with a killing that Ottawa has connected directly to the government of Indian Prime Minister Narendra Modi — happened just one day before a wedding in that …",
+      "url": "http://www.cbc.ca/news/politics/amandeep-singh-nijjar-sikh-modi-1.7222853",
+      "urlToImage": "https://i.cbc.ca/1.7209876.1716308639!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hardeep-singh-nijjar-accused.jpg",
+      "publishedAt": "2024-06-03T21:07:16.8843298Z",
+      "content": "The arrest in Brampton, Ont. on Nov. 3, 2023 of Amandeep Singh  one of four men charged in connection with a killing that Ottawa has linked directly with the government of Indian Prime Minister Naren… [+11410 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Meredith Deliso",
+      "title": "3 seriously injured after hot air balloon strikes power lines, crashes: FAA",
+      "description": "The crash occurred in Hebron, Indiana, Sunday evening.",
+      "url": "https://abcnews.go.com/US/hot-air-balloon-crash-hebron-indiana/story?id=110786049",
+      "urlToImage": "https://i.abcnewsfe.com/a/c3c1d342-8b3d-4beb-b444-9df178bc3ac7/fire-department-emergency-st-lv-240603_1717439572215_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-06-03T21:00:00Z",
+      "content": "Three people were seriously injured when their hot air balloon struck power lines and caught on fire before crashing into an Indiana field, authorities said.\r\nThe incident occurred Sunday shortly bef… [+1243 chars]"
+    },
+    {
+      "source": {
+        "id": "le-monde",
+        "name": "Le Monde"
+      },
+      "author": "Sophie Landrin",
+      "title": "The Modi decade: Economic boom and democratic decline",
+      "description": "India's Hindu nationalist prime minister, in office since 2014, is hoping to be reappointed on June 4 for a third term.",
+      "url": "https://www.lemonde.fr/en/international/article/2024/06/03/the-modi-decade-economic-boom-and-democratic-decline_6673667_4.html",
+      "urlToImage": "https://img.lemde.fr/2024/05/31/1/0/6968/4645/1440/960/60/0/0352b90_1717169238232-036a2463.jpg",
+      "publishedAt": "2024-06-03T20:41:36Z",
+      "content": "A life-size effigy of Prime Minister Narendra Modi on a street in Benares, India, on May 26, 2024. ISHAN TANKHA FOR LE MONDE\r\nWhen he came to power in 2014, Narendra Modi, a master in the art of stor… [+2901 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Rajesh Prabhuswamy",
+      "title": "India's Modi eyes biggest win yet when votes counted in giant election",
+      "description": "India's Prime Minister Narendra Modi is expected to win a record-equalling third consecutive term in office on Tuesday when the 642 million votes cast in the world's largest election are counted.",
+      "url": "https://www.reuters.com/world/india/indias-modi-eyes-biggest-win-yet-when-votes-counted-giant-election-2024-06-03/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/64HG75NFH5MBTJK7ISZIC3FUQA.jpg?auth=e7fa7fc5320d7e87996d03dd6ac7314644dac845218d0fa9aea695f13ff57736&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-06-03T19:50:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Dev Pragad, President and CEO",
+      "title": "On the World Stage: Newsweek's Interviews with Indian Prime Minister Modi and Japanese Prime Minister Kishida",
+      "description": "We aim to transcend surface-level narratives, offering coverage that creates opportunities for true international dialogue.",
+      "url": "https://www.newsweek.com/world-stage-newsweeks-interviews-indian-prime-minister-modi-japanese-prime-minister-kishida-1895648",
+      "urlToImage": "https://d.newsweek.com/en/full/2385807/dev-pragad-modi-kishida-newsweek-interview.jpg",
+      "publishedAt": "2024-04-30T14:55:15Z",
+      "content": "Newsweek's core mission is to provide our readers with a deep and nuanced understanding of the world around them. That means embracing a truly global perspective. We aim to transcend surface-level na… [+5470 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Emma Hinchliffe, Paige McGlauflin",
+      "title": "Why a former SoftBank partner is tackling mid-career drop-off for working mothers",
+      "description": "Former SoftBank partner and Facebook India director Kirthiga Reddy is the cofounder of Laddrr, a resource hub for working mothers aiming to prevent mid-career drop-off.",
+      "url": "https://fortune.com/2022/06/01/former-softbank-partner-tackling-mid-career-drop-off-for-working-mothers/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/Kirthiga1.jpg?resize=1200,600",
+      "publishedAt": "2022-06-01T13:22:34Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "Ananth Krishnan",
+      "title": "Dalai Lama’s close aides targeted on Pegasus spyware list",
+      "description": "‘Analysis indicates that the Indian govt. was selecting the potential targets’",
+      "url": "https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece",
+      "urlToImage": "https://www.thehindu.com/news/international/dvshb0/article35474284.ece/ALTERNATES/LANDSCAPE_615/thjc-DalaiLama",
+      "publishedAt": "2021-07-22T15:47:01Z",
+      "content": "Several of the top India-based aides to the Tibetan spiritual leader, the Dalai Lama, figure on the list of potential targets for spying using the Pegasus spyware, according to a report on Thursday. … [+2399 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RTÉ News",
+      "title": "UK continues with reopening plan despite concerns",
+      "description": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.",
+      "url": "https://www.rte.ie/news/uk/2021/0515/1221764-uk-indian-variant/",
+      "urlToImage": "https://img.rasset.ie/0016cb40-1601.jpg",
+      "publishedAt": "2021-05-15T09:33:48Z",
+      "content": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.\r\nPrim… [+5066 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rajat Pandit",
+      "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+      "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+      "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T08:29:00Z",
+      "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n\u003Cul\u003E\u003Cli\u003ENews\u003C/li\u003E\r\n\u003Cli\u003EIndia News\u003C/li\u003E\r\n\u003Cli\u003EArmy explores procurement of 350 light tanks for mou… [+58 chars]"
+    }
+  ]
+}
