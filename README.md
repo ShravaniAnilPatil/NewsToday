@@ -35,4 +35,4 @@ NewsToday is a React-based news application that delivers the latest news headli
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/newstoday.git
+   git clone https://github.com/ShravaniAnilPatil/NewsToday.git
